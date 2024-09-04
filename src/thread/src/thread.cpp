@@ -143,24 +143,12 @@ bool consumer(Factory<TaskData> &task_factory,Factory<VisionData> &transmit_fact
 
         task_factory.consume(dst);
         mode = dst.mode;
-        
-
-        // if((!dst.img.empty())) 
-        // {
-        //     namedWindow("dst2",0);
-        //     imshow("dst2",dst.img);
-        //     waitKey(1);//需要加一个waitkey，否则会卡死，可能是刷新频率过高，导致显示有问题，如果只是做数据传输，不用waitkey，这个证明图像已经传递过去.
-        //     // std::cerr<<"consume recevie data !!"<<endl;
-        //     // fmt::print(fmt::fg(fmt::color::green), "[CAMERA] consume image\n");
-        // }
-        // fmt::print(fmt::fg(fmt::color::yellow), "[CONSUMER] Mode is :{}\n", mode);      
+     
 #ifdef DEBUG_WITHOUT_COM
         mode = 1;
-        // dst.mode = mode;
 #endif // DEBUG_WITHOUT_COM
 
 #ifdef SAVE_TRANSMIT_LOG
-    // cout<<mode<<"..."<<last_mode<<endl;
     if (mode != last_mode)
     {
         LOG(INFO)<<"[CONSUMER] Mode switched to "<< mode;

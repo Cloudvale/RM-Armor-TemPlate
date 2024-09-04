@@ -112,33 +112,6 @@ bool Armor_wmj::IsArmor(ArmorParam _param, bool dimOrLight)
         }
         else
         {
-
-            // if(m_tiltAngle < _param.m_dim_armor_tiltangle)
-            // {
-            //     fmt::print(fmt::emphasis::bold | fg(fmt::color::red), "1\n");
-            // }
-            // if( m_ratio < _param.m_dim_armor_ratio_max &&
-            //     m_ratio > _param.m_dim_armor_ratio_min)
-            // {
-            //     fmt::print(fmt::emphasis::bold | fg(fmt::color::red), "2\n");
-            // }
-            // if(m_lighsRatio < _param.m_dim_lights_diff)
-            // {
-            //     fmt::print(fmt::emphasis::bold | fg(fmt::color::red), "3\n");
-            // }
-            // if(m_width > _param.m_dim_armor_malposition)
-            // {
-            //     fmt::print(fmt::emphasis::bold | fg(fmt::color::red), "4\n");
-            // }
-            // if(m_angle_diff < _param.m_dim_angle_diff)
-            // {
-            //     fmt::print(fmt::emphasis::bold | fg(fmt::color::red), "5\n");
-            // }
-
-            // fmt::print(fmt::emphasis::bold | fg(fmt::color::yellow_green), "return\n");
-
-            // fmt::print(fmt::emphasis::bold | fg(fmt::color::yellow_green), "m_tiltAngle :{},{}\n",m_tiltAngle,_param.m_dim_armor_tiltangle);
-
         if (!(m_tiltAngle < _param.m_dim_armor_tiltangle &&
                 m_ratio < _param.m_dim_armor_ratio_max &&
                 m_ratio > _param.m_dim_armor_ratio_min &&
@@ -559,7 +532,15 @@ bool ArmorDetector::findTargetArmor()
             putText(m_src, to_string(armorID), Point(m_bestArmor.m_rect.x, m_bestArmor.m_rect.y), FONT_HERSHEY_SIMPLEX, 1, Scalar(0, 255, 0), 2, 8, false);
         }
         cv::rectangle(m_src, m_bestArmor.m_rect, cv::Scalar(0, 255, 0), 2); // 绿色矩形，线宽为 2
+        return true;
     }
+    else if(m_armors.size() > 1)
+    {
+        sort(m_armors.begin(), m_armors.end(), [&](Armor_wmj &a, Armor_wmj &b)
+                {return a > b;});
+    }
+
+
 }
 
 bool ArmorDetector::judgeColor(Light &light, std::vector<cv::Point> Contours)
