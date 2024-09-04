@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\test.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\test.cpp",
+  "file": "D:/Desktop/lzc-rm/template/test.cpp",
+  "output": "CMakeFiles/sort_app.dir/test.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\thread\\src\\thread.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\thread\\src\\thread.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/thread/src/thread.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/thread/src/thread.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\Serial\\src\\serialport.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\Serial\\src\\serialport.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/Serial/src/serialport.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/Serial/src/serialport.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\Armor\\src\\autoaim.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\Armor\\src\\autoaim.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/Armor/src/autoaim.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/Armor/src/autoaim.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\Armor\\src\\inference.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\Armor\\src\\inference.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/Armor/src/inference.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/Armor/src/inference.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\Armor\\src\\armor_tracker.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\Armor\\src\\armor_tracker.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/Armor/src/armor_tracker.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/Armor/src/armor_tracker.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\Armor\\predictor\\src\\predictor.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\Armor\\predictor\\src\\predictor.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/Armor/predictor/src/predictor.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/Armor/predictor/src/predictor.cpp.obj"
+},
+{
+  "directory": "D:/Desktop/lzc-rm/template/build",
+  "command": "D:\\software\\mingw\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\c++.exe -DARMOR_CFG=\\\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\\\" -DSVM_XML=\\\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\\\" @CMakeFiles/sort_app.dir/includes_CXX.rsp -g -o CMakeFiles\\sort_app.dir\\src\\general\\general.cpp.obj -c D:\\Desktop\\lzc-rm\\template\\src\\general\\general.cpp",
+  "file": "D:/Desktop/lzc-rm/template/src/general/general.cpp",
+  "output": "CMakeFiles/sort_app.dir/src/general/general.cpp.obj"
+}
+]

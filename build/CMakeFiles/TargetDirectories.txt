@@ -1,0 +1,3 @@
+D:/Desktop/lzc-rm/template/build/CMakeFiles/sort_app.dir
+D:/Desktop/lzc-rm/template/build/CMakeFiles/edit_cache.dir
+D:/Desktop/lzc-rm/template/build/CMakeFiles/rebuild_cache.dir

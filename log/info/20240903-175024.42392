@@ -1,0 +1,22 @@
+Log file created at: 2024/09/03 17:50:24
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240903 17:50:24.768939 38496 autoaim.cpp:30] [AUTOAIM] Autoaim init model success! Size: 416 416
+I20240903 17:50:30.828984 38496 thread.cpp:155] [CONSUMER] Mode switched to 1
+W20240903 17:50:30.902578 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.912729 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.928422 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.943876 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.953388 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.967909 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:30.991240 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.006240 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.015462 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.036459 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.052824 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.068073 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.085677 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.098032 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:50:31.106034 38496 autoaim.cpp:83] [AUTOAIM] No target detected!
+E20240903 17:50:31.106034 38496 inference.cpp:713] [DETECT] ERROR: 传入了空的src

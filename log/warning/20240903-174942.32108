@@ -1,0 +1,21 @@
+Log file created at: 2024/09/03 17:49:42
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:06
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W20240903 17:49:42.748237 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.758363 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.773469 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.789850 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.806555 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.820956 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.851949 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.861135 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.882977 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.898195 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.913704 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.929704 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.943022 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.958914 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.974249 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:42.990337 28440 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:43.005367 28440 autoaim.cpp:83] [AUTOAIM] No target detected!

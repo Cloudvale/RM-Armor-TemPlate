@@ -1,0 +1,596 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "sort_app.exe"
+		},
+		{
+			"path" : "sort_app.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"link_directories",
+			"target_link_libraries",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 55,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 102,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 59,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARMOR_CFG=\"D:/Desktop/lzc-rm/template/ArmorDetectors.yaml\""
+				},
+				{
+					"backtrace" : 5,
+					"define" : "SVM_XML=\"D:/Desktop/lzc-rm/template/HOG_SVM.xml\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "D:/Desktop/lzc-rm/template/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "D:/Desktop/lzc-rm/template/src/thread/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "D:/Desktop/lzc-rm/template/src/Serial/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "D:/Desktop/lzc-rm/template/src/Armor/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "D:/Desktop/lzc-rm/template/src/Armor/predictor/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/software/openvino/w_openvino_toolkit_runtime_p_2021.4.582/deployment_tools/inference_engine/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "D:/Desktop/lzc-rm/package/eigen-3.4.0"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/Desktop/lzc-rm/package/glog-0.5.0/install/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "D:/Desktop/lzc-rm/package/yaml-cpp-master/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "D:/Desktop/lzc-rm/package/matplotlib-cpp-master"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "D:/software/Anaconda/include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "D:/software/Anaconda/envs/lzcpytorch/Lib/site-packages/numpy/core/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/build/x64/MinGW"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/include/opencv"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/core/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/flann/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/imgproc/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/ml/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/photo/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/video/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/dnn/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/features2d/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/imgcodecs/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/shape/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/videoio/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/calib3d/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/highgui/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/objdetect/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/stitching/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/superres/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/ts/include"
+				},
+				{
+					"backtrace" : 1,
+					"isSystem" : true,
+					"path" : "D:/software/opencv/opencv/sources/modules/videostab/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Desktop/lzc-rm/fmt-master/fmt-master/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			]
+		}
+	],
+	"id" : "sort_app::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-LD:\\Desktop\\lzc-rm\\package\\glog-0.5.0\\install\\lib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_dnn349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_highgui349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_ml349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_objdetect349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_shape349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_stitching349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_superres349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_videostab349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "D:\\Desktop\\lzc-rm\\fmt-master\\fmt-master\\build\\libfmtd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "D:\\Desktop\\lzc-rm\\package\\yaml-cpp-master\\build\\libyaml-cppd.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "D:\\software\\Anaconda\\libs\\python311.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lglog",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_calib3d349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_features2d349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_flann349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_photo349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_video349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_videoio349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_imgcodecs349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_imgproc349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "D:\\software\\opencv\\opencv\\build\\x64\\MinGW\\lib\\libopencv_core349.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "sort_app",
+	"nameOnDisk" : "sort_app.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "test.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/thread/src/thread.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/thread/include/thread.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Serial/src/serialport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Serial/include/serialport.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Armor/src/autoaim.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Armor/include/autoaim.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Armor/src/inference.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Armor/include/inference.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Armor/src/armor_tracker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Armor/include/armor_tracker.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Armor/predictor/src/predictor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/Armor/predictor/include/predictor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/general/general.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/general/general.h",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}

@@ -1,0 +1,5 @@
+Log file created at: 2024/09/01 23:41:28
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240901 23:41:28.404430 22280 autoaim.cpp:29] [AUTOAIM] Autoaim init model success! Size: 416 416

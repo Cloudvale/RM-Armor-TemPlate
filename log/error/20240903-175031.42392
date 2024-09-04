@@ -1,0 +1,5 @@
+Log file created at: 2024/09/03 17:50:31
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:06
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20240903 17:50:31.106034 38496 inference.cpp:713] [DETECT] ERROR: 传入了空的src

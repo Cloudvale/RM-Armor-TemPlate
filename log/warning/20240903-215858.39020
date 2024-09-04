@@ -1,0 +1,6 @@
+Log file created at: 2024/09/03 21:58:58
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:06
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W20240903 21:58:58.674976  6872 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 21:58:58.694298  6872 autoaim.cpp:83] [AUTOAIM] No target detected!

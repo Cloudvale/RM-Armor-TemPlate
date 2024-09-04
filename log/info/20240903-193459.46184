@@ -1,0 +1,61 @@
+Log file created at: 2024/09/03 19:34:59
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240903 19:34:59.522221 20896 autoaim.cpp:30] [AUTOAIM] Autoaim init model success! Size: 416 416
+I20240903 19:35:05.620097 20896 thread.cpp:166] [CONSUMER] Mode switched to 1
+W20240903 19:35:05.680685 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.708356 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.724356 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.771973 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.835343 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.867395 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.928428 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:05.976220 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.021663 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.067916 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.101109 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.162372 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.208145 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.239971 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.302134 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.348444 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.382093 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.442165 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.489356 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.535073 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.565596 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.627071 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.658561 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.703553 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.765749 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.815400 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.861259 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.880784 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.956079 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:06.989101 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.050283 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.096230 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.143044 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.189869 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.221802 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.268468 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.314616 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.375821 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.439074 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.453058 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.521369 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.549507 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.611775 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.645098 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.704176 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.749783 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.796738 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.827056 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.889879 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.937373 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:07.982729 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:08.015985 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:08.059554 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:08.124563 20896 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 19:35:08.170957 20896 autoaim.cpp:83] [AUTOAIM] No target detected!

@@ -1,0 +1,24 @@
+Log file created at: 2024/09/03 17:49:11
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240903 17:49:11.456979  9684 autoaim.cpp:30] [AUTOAIM] Autoaim init model success! Size: 416 416
+I20240903 17:49:17.524437  9684 thread.cpp:152] [CONSUMER] Mode switched to 1
+W20240903 17:49:17.593659  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.609093  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.624339  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.638893  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.655539  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.671602  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.690019  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.703190  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.718593  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.733157  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.749035  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.764626  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.780026  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.795492  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.810873  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.827199  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.842223  9684 autoaim.cpp:83] [AUTOAIM] No target detected!
+W20240903 17:49:17.858875  9684 autoaim.cpp:83] [AUTOAIM] No target detected!

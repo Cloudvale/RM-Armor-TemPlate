@@ -1,0 +1,31 @@
+Log file created at: 2024/09/04 08:57:38
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:20
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20240904 08:57:38.293149 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.340673 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.372476 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.434826 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.481344 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.512931 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.573438 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.619837 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.667210 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.713147 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.760442 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.807364 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.837967 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.898160 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.945013 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:38.992151 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.022635 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.085939 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.132946 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.164254 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.226608 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.273970 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.320822 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.366834 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.414501 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.460536 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src
+E20240904 08:57:39.491463 37280 inference.cpp:724] [DETECT] ERROR: 传入了空的src

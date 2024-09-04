@@ -1,0 +1,6 @@
+Log file created at: 2024/09/03 19:37:09
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240903 19:37:09.956063 35676 autoaim.cpp:30] [AUTOAIM] Autoaim init model success! Size: 416 416
+I20240903 19:37:16.076023 35676 thread.cpp:166] [CONSUMER] Mode switched to 1

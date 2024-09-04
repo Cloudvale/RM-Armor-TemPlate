@@ -1,0 +1,907 @@
+Log file created at: 2024/09/04 08:49:27
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20240904 08:49:27.485700 32328 autoaim.cpp:30] [AUTOAIM] Autoaim init model success! Size: 416 416
+I20240904 08:49:33.225250 32328 thread.cpp:166] [CONSUMER] Mode switched to 1
+W20240904 08:49:33.265029 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.272840 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.310231 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.372658 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.419832 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.465509 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.511915 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.553105 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.592370 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.661432 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.699631 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.729629 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.792145 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.840961 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.893399 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.914950 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:33.986650 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.007542 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.078135 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.124974 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.156081 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.218497 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.264189 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.285863 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.342974 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.395058 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.450783 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.482573 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.520279 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.580070 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.627362 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.684955 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.720273 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.777267 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.823269 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.861418 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.916355 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:34.963335 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.009104 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.056519 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.077133 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.149842 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.187070 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.233244 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.276407 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.337648 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.383903 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.415752 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.478382 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.515555 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.561556 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.604063 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.667272 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.714519 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.761503 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.808761 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.838466 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.884513 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.945456 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:35.982790 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.023403 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.085137 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.121428 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.162802 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.209199 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.255967 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.308198 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.363169 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.399681 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.439502 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.484521 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.545866 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.581781 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.639663 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.678325 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.734061 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.769747 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.811548 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.847975 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.920670 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:36.958149 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.015093 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.061487 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.107275 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.138010 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.184144 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.245110 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.290645 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.321998 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.374118 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.431430 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.478317 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.509316 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.546301 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.618710 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.649878 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.696946 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.759279 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.804636 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.850966 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.897825 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.943362 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:37.964604 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.037741 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.068861 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.131304 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.178402 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.209923 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.245802 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.317780 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.362916 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.409484 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.457331 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.504212 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.550653 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.598027 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.634354 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.692814 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.739645 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.785853 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.808017 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.880117 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.925472 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:38.956766 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.004586 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.066207 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.101966 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.150068 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.197475 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.244120 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.302053 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.333380 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.396085 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.441890 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.489127 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.527016 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.572365 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.613806 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.675535 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.722975 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.781424 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.800712 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.848562 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.910629 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.956149 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:39.986682 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.041199 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.080330 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.143049 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.190367 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.236850 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.267764 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.330098 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.360561 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.405843 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.453135 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.515781 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.536549 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.609162 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.655634 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.685575 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.748059 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.768464 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.842165 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.878436 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.934324 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:40.964553 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.010107 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.055859 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.102125 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.165251 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.211042 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.246434 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.288471 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.349617 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.384733 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.431715 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.489521 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.521359 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.567793 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.619414 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.665632 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.706336 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.768646 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.798897 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.845013 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.907866 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.945490 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:41.985996 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.048425 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.093901 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.115656 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.186870 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.222579 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.263850 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.315609 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.371037 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.418403 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.464673 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.510581 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.557332 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.603252 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.649049 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.669888 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.741755 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.778642 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.809433 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.881470 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.928536 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:42.966174 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.013625 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.069844 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.107184 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.147411 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.209177 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.255880 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.287230 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.340691 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.387763 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.443305 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.489817 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.536916 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.583500 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.628947 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.665557 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.705890 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.767459 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.806586 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.861320 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.883034 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.946213 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:43.992455 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.038466 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.085011 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.115999 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.162958 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.236639 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.272286 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.304234 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.366865 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.396587 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.442495 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.498205 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.561511 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.608990 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.645066 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.691861 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.751372 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:44.782847 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.327368 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.333027 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.341722 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.347046 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.404080 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.441059 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.487138 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.533915 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.575910 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.621944 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.683902 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.729955 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.776795 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.823580 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.869518 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.900516 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:45.962865 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.010345 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.057375 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.103060 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.535511 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.541215 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.553402 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.568899 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.584542 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.600057 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.652045 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.683931 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.746867 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.777704 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.841066 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.886886 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.934754 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:46.982811 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.013211 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.086395 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.117714 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.179245 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.226011 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.261494 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.320187 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.350659 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.402065 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.447391 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.478282 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.550066 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.585749 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.632478 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.689549 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.710742 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.781821 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+W20240904 08:49:47.828640 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:47.858868 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:47.858868 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:47.890154 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:47.899197 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:47.951078 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:47.951078 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:47.997666 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:47.997666 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.043561 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.044070 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.089177 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.089177 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.136483 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.136986 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.167346 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.167346 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.228662 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.228662 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.258873 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.258873 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.320912 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.320912 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.351820 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.351820 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.413772 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.413772 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.444839 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.444839 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.491730 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.491730 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.554129 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.554129 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.599273 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.599273 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.647610 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.647610 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.695164 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.695164 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.741554 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.741554 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.773252 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.773252 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.834697 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.834697 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.881353 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.881353 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.912492 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.912492 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:48.975998 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:48.975998 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.022643 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.022643 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.068948 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.068948 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.100978 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.100978 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.163305 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.163305 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.194532 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.194532 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.257694 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.257694 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.288789 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.288789 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.351059 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.351059 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.397962 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.397962 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.444909 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.444909 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.491322 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.491322 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.523013 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.523013 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.568863 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.568863 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.630661 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.630661 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.677733 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.677733 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.724457 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.724457 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.771351 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.771351 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.817620 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.817620 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.864018 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.864018 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.910346 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.910346 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:49.940668 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:49.940668 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.003223 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.003223 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.048501 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.048501 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.094028 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.094028 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.140847 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.140847 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.187942 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.188454 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.234673 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.234673 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.265865 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.265865 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.328079 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.328079 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.374554 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.374554 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.421342 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.421342 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.467363 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.467363 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.515075 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.515075 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.560985 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.560985 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.591256 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.591256 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.651261 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.651261 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.696861 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.696861 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.744208 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.744208 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.776151 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.776151 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.839847 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.839847 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.886520 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.886520 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.932374 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.932374 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:50.963106 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:50.963106 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.025274 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.025274 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.071143 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.071143 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.118245 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.118245 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.164700 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.164700 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.211942 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.211942 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.258397 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.258397 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.305541 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.305541 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.353201 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.353201 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.400975 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.400975 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.447147 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.447147 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.478236 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.478236 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.525512 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.525512 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.588201 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.588201 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.634582 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.634582 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.681141 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.681141 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.727352 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.727352 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.757969 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.757969 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.819438 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.819438 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.865950 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.865950 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.896413 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.896413 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:51.942660 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:51.942660 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.004551 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.004551 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.035518 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.035518 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.082266 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.082266 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.144032 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.144032 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.191296 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.191296 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.238489 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.238489 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.284991 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.284991 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.331517 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.331517 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.378420 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.378420 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.425374 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.425374 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.457438 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.457438 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.518154 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.518154 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.565064 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.565064 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.611992 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.611992 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.659581 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.659581 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.705724 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.705724 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.752139 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.752139 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.783430 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.783430 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.846076 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.846076 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.893157 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.893157 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.939450 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.939450 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:52.970486 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:52.970486 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.016207 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.016207 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.079505 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.079505 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.111657 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.111657 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.173055 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.173055 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.219856 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.220360 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.265863 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.265863 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.295910 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.295910 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.359252 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.359252 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.391067 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.391067 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.437999 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.437999 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.484608 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.484608 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.544849 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.544849 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.592190 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.592190 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.623165 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.623165 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.686023 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.686023 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.733052 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.733556 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.780848 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.780848 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.812077 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.812077 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.875059 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.875059 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.906730 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.906730 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:53.953613 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:53.953613 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.000934 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.000934 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.063912 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.063912 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.110133 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.110133 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.156769 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.156769 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.203398 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.203398 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.234489 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.234489 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.294858 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.294858 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.342120 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.342120 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.389290 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.389290 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.434633 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.434633 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.481802 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.481802 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.527527 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.527527 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.572523 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.572523 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.618706 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.618706 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.666194 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.666194 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.713717 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.714262 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.744905 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.744905 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.807135 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.807135 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.855381 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.855381 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.901952 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.901952 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.948458 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.948458 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:54.996176 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:54.996176 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.042876 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.042876 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.074178 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.074178 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.135764 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.135764 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.182811 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.182811 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.231586 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.231586 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.278414 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.278414 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.324594 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.324594 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.371235 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.371235 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.417758 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.417758 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.465106 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.465106 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.511569 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.511569 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.558784 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.559289 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.605463 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.605463 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.652431 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.652431 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.683948 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.683948 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.745071 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.745071 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.791240 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.791240 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.836736 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.836736 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.882910 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.882910 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.929601 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.929601 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:55.960765 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:55.960765 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.023437 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.023437 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.070178 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.079336 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.117136 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.117136 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.163616 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.163616 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.210469 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.210469 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.257762 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.257762 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.305258 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.305258 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.351246 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.351246 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.397781 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.397781 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.429831 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.429831 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.477654 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.477654 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.539654 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.539654 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.585003 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.585003 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.631526 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.631526 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.679355 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.679355 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.725986 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.725986 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.756386 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.756386 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.818409 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.818409 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.864956 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.864956 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.911409 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.911409 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:56.956445 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:56.956445 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.003288 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.003793 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.048420 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.048420 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.094605 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.094605 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.140967 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.140967 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.188593 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.188593 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.219907 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.219907 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.266345 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.266345 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.329741 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.329741 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.375404 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.375404 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.421990 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.422503 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.453393 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.453393 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.514755 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.514755 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.561606 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.561606 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.607605 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.607605 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.654589 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.654589 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.700067 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.700067 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.745398 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.745398 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.776734 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.776734 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.838635 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.838635 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.870299 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.870299 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.917496 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.917496 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:57.978624 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:57.978624 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.025117 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.025117 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.071926 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.071926 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.118557 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.118557 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.164871 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.164871 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.211741 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.211741 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.256912 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.256912 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.303581 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.303581 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.350144 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.350144 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.381191 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.381191 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.428279 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.428279 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.490433 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.490433 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.537829 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.537829 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.583897 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.583897 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.630589 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.630589 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.676172 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.676172 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.721681 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.721681 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.751681 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.751681 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.813730 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.813730 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.860399 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.860399 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.906203 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.906203 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.936770 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.936770 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:58.999135 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:58.999135 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.044623 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.044623 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.090154 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.090154 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.136538 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.136538 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.168046 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.168046 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.214583 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.214583 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.276799 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.276799 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.323483 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.323483 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.369269 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.369269 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.400631 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.400631 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.462616 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.462616 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.493582 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.493582 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.555959 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.555959 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.603221 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.603221 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.634485 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.634485 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.697211 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.697211 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.743403 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.743403 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.790089 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.790089 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.820923 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.820923 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.881634 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.881634 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.928272 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.928272 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:49:59.959576 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:49:59.959576 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.021739 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.021739 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.052524 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.052524 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.115573 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.115573 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.163434 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.173521 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.209795 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.209795 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.240633 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.240633 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.303323 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.303323 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.334411 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.334411 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.380717 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.380717 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.443619 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.443619 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.474102 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.474102 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.536938 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.536938 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.583246 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.583246 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.628865 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.628865 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.676313 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.676313 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.722493 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.722493 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.770346 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.770346 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.800431 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.800431 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.862617 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.862617 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.909579 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.909579 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:00.956046 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:00.956046 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.002276 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.002276 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.048338 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.048338 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.096338 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.096338 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.142860 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.142860 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.187860 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.187860 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.235024 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.235024 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.266199 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.266199 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.328245 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.328245 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.359747 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.359747 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.421130 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.421130 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.450815 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.450815 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.512688 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.512688 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.559051 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.559051 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.604707 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.604707 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.651458 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.651458 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.697091 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.697091 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.744153 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.744153 32328 autoaim.cpp:84] [AUTOAIM] No target detected!
+E20240904 08:50:01.775110 32328 inference.cpp:728] [DETECT] ERROR: 传入了空的src
+W20240904 08:50:01.775110 32328 autoaim.cpp:84] [AUTOAIM] No target detected!

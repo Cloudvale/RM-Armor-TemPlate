@@ -1,0 +1,22 @@
+Log file created at: 2024/09/03 22:17:55
+Running on machine: R9000PLZC
+Running duration (h:mm:ss): 0:00:20
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20240903 22:17:55.560731 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.607645 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.638839 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.701371 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.747936 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.794543 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.841027 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.871856 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.919000 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:55.980320 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.011620 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.073707 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.120179 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.167047 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.213871 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.245497 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.291110 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
+E20240903 22:17:56.353492 44352 inference.cpp:745] [DETECT] ERROR: 传入了空的src
